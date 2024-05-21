@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Calistro+MT&pause=1000&color=006760&random=false&lines=PHP+/+Laravel+Developer;Passionate+in+Software+Development)](https://git.io/typing-svg)
 
-## Mark Villudo's GitHub Stats
-
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markvilludo&show_icons=true&theme=">
