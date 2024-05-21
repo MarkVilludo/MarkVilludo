@@ -33,12 +33,3 @@ I'm a highly motivated web developer with 9 years of industry experience.  While
 ## License
 
 This project is licensed under the MIT License.  Please see the LICENSE file for more information.
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markvilludo&show_icons=true&theme=">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=markvilludo&theme=&date_format=M%20j%5B%2C%20Y%5D">
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=markvilludo&layout=compact&theme=">
-
-
