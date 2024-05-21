@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=PHP+/+Laravel+Developer;Passionate+in+Software+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Calistro+MT&pause=1000&color=006760&random=false&lines=PHP+/+Laravel+Developer;Passionate+in+Software+Development)](https://git.io/typing-svg)
 
 ## Mark Villudo's GitHub Stats
 
