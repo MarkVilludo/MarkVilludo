@@ -23,8 +23,9 @@ I'm a highly motivated web developer with 9 years of industry experience.  While
 
 * PHP
 * Laravel
-* Node.js
+* Vue.JS
 * JavaScript
+* Node.js
 * HTML
 * CSS
 * Tailwind CSS
